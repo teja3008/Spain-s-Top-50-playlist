@@ -1,0 +1,546 @@
+song,artist,entry_date,exit_date,total_days,peak_position,avg_position,time_to_peak,avg_popularity,album_type,is_explicit,duration_min,total_tracks,stage,duration_bin
+0 CONFIANZA,Rvfv,2025-06-02,2025-06-23,20,23,29.65,5,57.55,album,False,3.62,20,Decline,3-4 min
+"1 de Enero, Puntacana",Rels B,2025-04-28,2025-04-28,1,45,45.0,0,65.0,album,False,1.58,13,New Entry,<2min
+1000COSAS,Lola Indigo & Manuel Turizo,2025-03-10,2025-11-13,245,3,20.43,0,76.17,single,False,3.99,1,Peak,3-4 min
+100xCiento,Foreign Teck & Eladio Carrion & De La Ghetto,2025-04-30,2025-05-15,11,13,28.18,11,73.73,single,True,3.66,1,Decline,3-4 min
+14 FEBREROS,Quevedo,2025-11-24,2025-11-27,4,9,13.5,0,65.75,album,True,2.87,18,New Entry,2-3 min
+2AM,Sebastian Yatra & Bad Gyal,2025-11-24,2025-11-27,4,31,39.5,3,60.0,single,False,3.27,1,New Entry,3-4 min
+2xLL,JC Reyes & YOVNGCHIMI & Slayter,2025-07-12,2025-08-09,26,35,40.77,11,68.81,single,False,2.98,1,Decline,2-3 min
+3 CAÍDAS,SAIKO,2025-04-28,2025-05-05,8,13,30.75,0,65.75,album,False,4.19,16,Decline,4-5 min
+4 PREZ,Cruz Cafuné,2024-05-28,2024-05-29,2,35,40.5,0,54.5,album,True,2.49,23,New Entry,2-3 min
+4TO 23,Aitana,2025-07-07,2025-07-16,9,17,35.0,0,65.22,single,False,2.81,1,Decline,2-3 min
+50 PALOS,Feid,2024-12-02,2024-12-02,1,38,38.0,0,0.0,album,True,2.79,10,New Entry,2-3 min
+57,KAROL G & Feid & DFZM,2025-11-10,2025-11-27,18,8,17.83,0,80.11,single,True,4.97,1,Peak,4-5 min
+58,JHAYCO,2025-09-08,2025-09-18,8,35,44.0,0,65.0,album,False,4.79,29,Decline,4-5 min
+69,Nicky Jam & Feid,2024-05-21,2024-06-30,41,22,36.05,10,83.54,single,True,3.7,1,Decline,3-4 min
+A 300,JC Reyes & Pedro Calderon,2024-08-06,2025-04-24,255,11,25.56,161,76.91,single,False,2.82,1,Mature,2-3 min
+ACHO PR,Bad Bunny,2024-10-14,2024-10-20,7,15,30.43,0,69.57,album,True,5.99,22,New Entry,>5 min
+ADIVINO,Myke Towers & Bad Bunny,2025-04-28,2025-11-16,201,1,19.09,0,81.03,single,True,4.64,1,Peak,4-5 min
+ALAKRAN,Feid,2024-12-02,2024-12-05,3,24,39.33,0,47.0,album,False,1.51,10,New Entry,<2min
+AMANECIÓ,Quevedo,2025-11-24,2025-11-27,4,13,17.0,0,65.5,album,False,4.26,18,New Entry,4-5 min
+AMARGURA,KAROL G,2024-05-26,2025-10-31,153,16,32.76,426,87.41,album,True,2.84,17,Mature,2-3 min
+APAGA EL CEL,FloyyMenor & Lewis Somes,2025-05-26,2025-09-04,89,7,21.88,17,79.18,single,True,3.08,1,Peak,3-4 min
+APT.,ROSÉ & Bruno Mars,2025-10-23,2025-11-01,7,42,44.43,7,92.14,single,False,2.83,1,New Entry,2-3 min
+AQYNE,Aitana,2024-09-27,2024-09-29,3,40,40.33,1,72.33,album,False,3.02,15,New Entry,3-4 min
+ASI ES LA VIDA,Enrique Iglesias & Maria Becerra,2024-11-22,2025-03-23,67,38,45.1,70,82.99,single,False,2.87,1,Mature,2-3 min
+ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN),Don Toliver,2025-06-21,2025-06-21,1,46,46.0,0,69.0,album,True,2.68,16,New Entry,2-3 min
+AUNQUE LLEGUE OTRO (feat. Jay Wheeler),Myke Towers,2025-08-24,2025-08-24,1,23,23.0,0,0.0,album,True,3.3,20,New Entry,3-4 min
+AYER Y HOY,Mora,2024-08-30,2024-08-31,2,23,34.5,0,34.5,album,True,5.28,15,New Entry,>5 min
+Acróstico,Shakira,2024-05-18,2024-07-09,53,1,18.34,1,90.85,single,False,2.85,1,Peak,2-3 min
+Akureyri,Aitana & Sebastian Yatra,2025-04-28,2025-06-01,34,10,27.88,0,74.65,single,False,3.24,1,Peak,3-4 min
+Alegría,Tiago PZK,2025-09-28,2025-10-05,8,8,20.0,4,73.12,album,False,2.75,14,Peak,2-3 min
+All I Want for Christmas Is You,Mariah Carey,2024-12-03,2025-01-02,20,1,32.95,22,99.0,album,False,4.02,10,Peak,4-5 min
+Alucin,Eugenio Esquivel & Grupo Marca Registrada & Sebastian Esquivel,2025-01-13,2025-04-05,35,21,39.49,68,89.46,single,True,3.29,1,Decline,3-4 min
+Amanece,Anuel AA & Haze,2024-05-25,2025-07-06,15,47,48.53,29,81.47,single,False,3.17,1,Decline,3-4 min
+Amar De Nuevo,Rauw Alejandro,2025-11-17,2025-11-17,1,45,45.0,0,64.0,album,True,4.47,18,New Entry,4-5 min
+Andando,Morad,2024-05-18,2024-06-03,17,34,41.18,1,72.65,album,True,4.36,19,Decline,4-5 min
+Antes,Rvfv & Edu García,2024-05-18,2024-07-22,58,29,42.0,0,78.19,single,False,2.56,1,Decline,2-3 min
+Antidepresivos,Saiko,2024-08-06,2024-12-19,136,13,29.78,0,77.04,single,False,2.42,1,Mature,2-3 min
+Arena y Sal,Omar Montes & Saiko & Tunvao,2024-05-21,2025-01-20,242,3,20.02,77,80.0,single,False,2.91,1,Peak,2-3 min
+Arranca (feat. Omega),Becky G & Omega,2024-05-18,2024-07-25,69,38,44.22,0,84.55,single,False,2.78,1,Mature,2-3 min
+Ayer,DELLAFUENTE,2025-06-16,2025-06-18,2,37,43.0,0,40.0,album,False,2.6,10,New Entry,2-3 min
+BABY HELLO,Rauw Alejandro & Bizarrap,2024-06-25,2025-04-19,296,2,22.27,3,77.49,single,True,3.71,1,Peak,3-4 min
+BABY NUEVA,Bad Bunny,2024-10-14,2024-10-28,15,12,31.67,0,80.87,album,True,4.01,22,Decline,4-5 min
+BAD BOY,Chris Jedi & Gaby Music & Dei V,2025-02-11,2025-03-10,28,16,25.29,0,73.39,single,True,3.92,1,Decline,3-4 min
+BADGYAL,SAIKO,2025-04-28,2025-11-23,208,1,10.85,3,79.8,album,True,4.23,16,Peak,4-5 min
+BANDIT,Don Toliver,2025-06-21,2025-06-21,1,27,27.0,0,69.0,album,True,2.46,16,New Entry,2-3 min
+BATICANO,Bad Bunny,2024-10-14,2024-10-18,5,23,32.6,0,63.4,album,True,4.27,22,New Entry,4-5 min
+BBY BOO - REMIX,iZaak & Jhayco & Anuel AA,2025-03-30,2025-07-23,115,5,18.04,19,82.63,single,True,4.6,3,Peak,4-5 min
+"BESAME (feat. Tiago PZK, Khea & Neo Pistea) - Remix",Bhavi & Seven Kayne & Milo j,2025-04-24,2025-05-06,11,28,42.55,2,83.09,single,True,4.74,1,Decline,4-5 min
+BESO,ROSALÍA & Rauw Alejandro,2024-05-18,2024-10-06,142,4,21.93,0,93.9,single,False,3.24,3,Peak,3-4 min
+BESOS (with Kidd Keo & Neelo),SwaggGlock & Kidd Keo & Neelo,2024-09-14,2024-10-13,30,22,32.0,5,75.1,single,True,2.88,1,Decline,2-3 min
+BIRDS OF A FEATHER,Billie Eilish,2025-06-12,2025-06-13,2,49,49.0,0,92.0,album,False,3.51,10,New Entry,3-4 min
+BOREAL,SAIKO,2025-04-28,2025-05-01,4,22,35.5,0,62.5,album,False,2.75,16,New Entry,2-3 min
+BUBALU,Feid & Rema,2024-09-24,2024-10-06,13,21,33.69,1,55.08,single,False,3.8,1,Decline,3-4 min
+BUENAS NOCHES,Quevedo,2025-11-24,2025-11-27,4,18,25.25,0,63.5,album,False,3.98,18,New Entry,3-4 min
+Bailando Bachata,Chayanne,2025-05-13,2025-06-02,9,45,48.11,19,77.89,album,False,2.85,9,Decline,2-3 min
+Baja Pa' Acá,Rauw Alejandro,2025-11-17,2025-11-20,4,22,40.0,0,69.75,album,True,3.33,18,New Entry,3-4 min
+Bandidona,Saiko,2024-10-29,2024-11-10,13,20,32.23,0,68.62,single,False,2.68,1,Decline,2-3 min
+Barro,Duki,2025-10-20,2025-10-20,1,40,40.0,0,60.0,single,False,3.35,1,New Entry,3-4 min
+Beautiful Things,Benson Boone,2025-03-13,2025-06-23,91,17,39.08,22,90.18,single,False,3.01,1,Mature,3-4 min
+Bendecido,Eladio Carrion,2025-01-21,2025-01-26,6,7,23.0,0,75.0,album,True,2.38,17,New Entry,2-3 min
+Besitos BB 2.0,El Perla & Omar Montes & SAIKO,2025-10-16,2025-10-31,11,9,28.09,0,64.64,single,True,3.89,1,Peak,3-4 min
+Beso Prohibido,Beny Jr,2025-09-07,2025-09-07,1,49,49.0,0,64.0,album,False,2.55,14,New Entry,2-3 min
+Brindis,Duki,2025-11-03,2025-11-07,3,30,40.33,0,67.0,album,True,3.01,15,New Entry,3-4 min
+Buenas,Quevedo & Saiko,2024-09-24,2025-03-12,170,1,20.29,0,82.61,single,False,3.22,1,Peak,3-4 min
+Buscando Money,TWENTY SIX & Tayson Kryss,2025-02-02,2025-04-17,73,4,24.08,13,77.88,single,False,2.5,2,Peak,2-3 min
+Buscarte Lejos,Duki,2025-11-03,2025-11-09,7,28,37.57,3,68.0,album,False,3.24,15,New Entry,3-4 min
+CACHÉ,Myke Towers,2025-08-24,2025-08-24,1,47,47.0,0,0.0,album,True,3.28,20,New Entry,3-4 min
+CALL ME MAYBE,Duki,2024-12-10,2024-12-10,1,50,50.0,0,65.0,single,False,3.71,1,New Entry,3-4 min
+CARITA TRISTE,Ana Mena & Emilia,2025-09-01,2025-11-23,84,9,30.01,6,75.26,single,False,2.92,1,Peak,2-3 min
+CARTERA & TACOS,Myke Towers,2024-11-25,2024-11-25,1,47,47.0,0,0.0,album,True,2.17,23,New Entry,2-3 min
+CHAPIADORA.COM,Quevedo,2025-11-24,2025-11-27,4,8,14.0,0,66.0,album,False,3.29,18,New Entry,3-4 min
+CHIHIRO,Billie Eilish,2025-05-19,2025-05-25,7,39,46.0,0,84.71,album,False,5.06,10,New Entry,>5 min
+CHORRITO PA LAS ANIMAS,Feid,2024-05-18,2024-06-14,28,32,38.89,0,91.0,single,True,2.8,6,Decline,2-3 min
+CHULA,JC Reyes,2024-12-28,2025-01-20,8,49,49.62,20,71.75,single,False,2.55,1,Decline,2-3 min
+CLASSY 101,Feid & Young Miko,2024-12-01,2025-01-17,29,16,41.07,1,75.79,single,True,3.27,1,Decline,3-4 min
+COCO LOCO,Maluma,2024-07-01,2024-11-26,113,9,22.36,36,78.19,single,False,2.78,1,Peak,2-3 min
+COLMILLO,Tainy,2024-10-19,2024-11-14,9,18,35.67,22,72.67,album,True,4.43,20,Decline,4-5 min
+COMETA HALLEY,SAIKO,2025-04-28,2025-05-05,8,24,33.88,0,65.38,album,True,3.84,16,Decline,3-4 min
+COMO SUENAN LAS ESTRELLAS,SAIKO,2025-04-28,2025-05-19,22,24,36.73,2,69.32,album,False,2.31,16,Decline,2-3 min
+COMPETENCIA,Myke Towers,2025-08-24,2025-08-25,2,19,34.0,0,30.5,album,True,3.18,20,New Entry,3-4 min
+COMUNA 3,JC Reyes & The Rude Boyz,2025-05-16,2025-09-17,122,12,29.59,20,71.75,single,False,2.57,1,Mature,2-3 min
+CONTIGO (with Tiësto),KAROL G & Tiësto,2025-02-17,2025-03-24,35,13,26.11,1,88.0,single,False,3.21,1,Decline,3-4 min
+CORAZÓN VACÍO,Maria Becerra,2024-07-05,2024-10-13,101,19,37.0,14,88.58,single,False,2.68,1,Mature,2-3 min
+CORLEONE,Saiko & Yandel,2024-12-17,2025-01-15,27,16,37.19,4,62.04,single,False,3.2,1,Decline,3-4 min
+COSAS QUE NO TE DIJE,Saiko,2024-08-16,2025-04-27,253,7,21.68,118,81.09,single,False,3.75,1,Peak,3-4 min
+COSMETICOS,Myke Towers,2024-11-25,2024-11-29,2,33,40.5,0,35.0,album,True,2.36,23,New Entry,2-3 min
+CRUSH,Sky Rompiendo & Dei V,2025-04-07,2025-08-23,137,15,28.5,20,75.76,single,False,3.89,1,Mature,3-4 min
+CYBERTRUCK,Bad Bunny,2024-10-14,2024-10-21,8,8,26.5,0,73.75,album,True,3.2,22,Peak,3-4 min
+Cafe Malibú,Sech & Mora & Saiko,2024-07-23,2024-09-19,59,9,27.95,2,80.17,single,True,4.34,1,Peak,4-5 min
+Cangrinaje,Cruz Cafuné,2024-05-28,2024-05-28,1,48,48.0,0,56.0,album,True,3.53,23,New Entry,3-4 min
+Capri Sun,B10 & Kilvertz,2025-07-31,2025-08-14,14,34,41.14,5,66.29,single,False,2.81,1,Decline,2-3 min
+Casanova,Soolking & Lola Indigo & Rvfv,2024-12-10,2025-05-29,168,1,18.49,22,79.23,single,False,4.06,1,Peak,4-5 min
+Caserio,Yandel & SAIKO,2025-03-10,2025-03-10,1,41,41.0,0,59.0,single,True,3.16,1,New Entry,3-4 min
+Celine (with Kidd Keo),Ghost Killer Track & Kidd Keo,2025-10-03,2025-11-27,55,9,21.47,15,71.65,single,False,2.93,1,Peak,2-3 min
+Cha Cha Cha,Käärijä,2024-05-18,2024-05-20,3,37,42.67,0,87.0,single,False,2.92,1,New Entry,2-3 min
+Chulo pt.2,Bad Gyal & Tokischa & Young Miko,2024-06-24,2024-10-13,87,22,35.85,4,87.17,single,True,3.66,1,Mature,3-4 min
+Cine 🚬,Duki,2025-11-03,2025-11-03,1,42,42.0,0,61.0,album,True,2.38,15,New Entry,2-3 min
+Classy 101,Feid & Young Miko,2024-05-18,2024-11-30,182,7,20.5,0,94.7,single,True,3.27,1,Peak,3-4 min
+Clavaito,Chanel & Abraham Mateo,2024-05-18,2025-01-04,153,6,17.07,15,81.86,single,False,2.71,1,Peak,2-3 min
+Coco Chanel,Eladio Carrion,2024-05-18,2024-09-29,127,16,29.92,6,91.2,album,True,3.47,18,Mature,3-4 min
+Cohete,Shakira,2025-03-24,2025-03-30,6,21,41.33,0,60.5,album,False,2.88,17,New Entry,2-3 min
+Columbia,Quevedo,2024-07-08,2025-11-02,463,1,19.58,1,89.28,single,False,3.1,1,Peak,3-4 min
+Committed,Rauw Alejandro,2025-11-17,2025-11-17,1,29,29.0,0,66.0,album,True,2.66,18,New Entry,2-3 min
+Como Camarón,Estopa,2024-11-29,2025-02-21,35,32,43.8,35,73.43,album,False,3.37,12,Decline,3-4 min
+Conexión,Cano & JC Reyes,2025-10-25,2025-11-14,16,27,41.38,2,53.12,single,False,3.14,1,Decline,3-4 min
+Constelación,Duki & Lia Kali,2025-11-01,2025-11-10,10,26,32.6,2,64.3,single,False,3.34,1,Decline,3-4 min
+Copa Vacía,Shakira & Manuel Turizo,2024-07-02,2024-07-28,27,16,38.48,0,85.7,single,False,2.89,1,Decline,2-3 min
+Corazón Roto - Remix,Brray & Jhayco & Ryan Castro,2024-08-10,2024-09-13,33,26,36.85,30,86.73,single,True,4.58,1,Decline,4-5 min
+Corazón Roto pt. 3,Brray & Anuel AA & Chencho Corleone,2024-09-13,2025-02-04,104,21,37.25,14,83.62,single,True,5.81,1,Mature,>5 min
+Cosa Nuestra,Rauw Alejandro,2025-11-17,2025-11-18,2,16,30.0,0,68.5,album,True,4.34,18,New Entry,4-5 min
+Cosas Pendientes,Maluma,2025-11-24,2025-11-27,2,37,42.5,3,68.5,single,False,3.07,1,New Entry,3-4 min
+Cruel Summer,Taylor Swift,2025-06-01,2025-06-01,1,39,39.0,0,94.0,album,False,2.97,18,New Entry,2-3 min
+Cuando Te Vi | CROSSOVER #5,Big One & Maria Becerra & Trueno,2025-07-05,2025-10-28,114,11,26.45,40,78.32,single,True,3.64,5,Mature,3-4 min
+Cupido,TINI,2024-05-18,2025-06-05,120,17,33.88,1,82.61,album,False,2.91,14,Mature,2-3 min
+CÓRCEGA,Mora,2024-08-30,2024-09-02,4,17,36.75,0,54.0,album,True,3.15,15,New Entry,3-4 min
+Cómo Te Atreves,Morat,2025-03-02,2025-03-02,1,45,45.0,0,78.0,album,False,4.01,12,New Entry,4-5 min
+Cúrame,Rauw Alejandro,2025-08-01,2025-08-16,15,41,44.53,9,83.13,album,True,2.75,14,Decline,2-3 min
+DE PLASTILINA,Lola Indigo & Pepe y Vizio,2024-10-21,2024-10-22,2,40,45.0,0,16.0,single,False,3.49,1,New Entry,3-4 min
+DEGENERE 👑 (feat. benny blanco),Myke Towers,2025-10-20,2025-11-27,39,1,3.13,5,77.9,album,True,2.18,30,Peak,2-3 min
+DEMO #5: nostalgIA - Spanglish Version,FlowGPT,2024-11-08,2024-11-09,2,12,16.0,1,42.0,single,True,3.67,1,New Entry,3-4 min
+DEPORTIVO,Blessd & Anuel AA,2025-11-16,2025-11-23,4,35,43.5,7,68.5,single,True,3.65,1,New Entry,3-4 min
+DESATAAA,Ovy On The Drums & Myke Towers & SAIKO,2025-03-17,2025-07-09,113,6,28.88,4,74.53,single,True,3.29,1,Peak,3-4 min
+DESPECHÁ,ROSALÍA,2024-05-22,2025-01-02,51,39,47.02,21,84.55,album,False,2.61,24,Decline,2-3 min
+DESQUITE,Feid,2024-12-02,2024-12-02,1,39,39.0,0,0.0,album,False,2.23,10,New Entry,2-3 min
+DIABLA,Los Diozes,2025-10-27,2025-11-20,25,17,29.56,7,67.48,album,True,3.63,8,Decline,3-4 min
+DIABLITA (feat. YOVNGCHIMI),Myke Towers,2025-08-24,2025-09-04,9,34,41.56,0,60.22,album,True,3.1,20,Decline,3-4 min
+DIAMONDS,Mora,2024-08-30,2024-09-02,4,18,34.75,0,53.75,album,True,3.22,15,New Entry,3-4 min
+DILUVIO,Rauw Alejandro,2024-10-21,2025-10-14,188,3,18.78,26,88.24,album,True,3.28,14,Peak,3-4 min
+DINERO y FAMA (feat. Omar Montes),Myke Towers,2025-08-24,2025-08-24,1,40,40.0,0,0.0,album,True,3.6,20,New Entry,3-4 min
+DONDE SE APRENDE A QUERER?,Mora,2024-08-30,2025-02-17,152,3,31.2,0,84.53,album,False,2.41,15,Peak,2-3 min
+DUBAI,Trueno & Beny Jr,2024-06-15,2024-06-22,8,47,49.0,2,75.75,single,False,2.43,1,Decline,2-3 min
+DURO,Quevedo,2025-11-02,2025-11-27,26,1,11.38,0,72.5,single,False,2.7,1,Peak,2-3 min
+Dararí,Aitana,2024-09-24,2024-09-29,6,13,27.5,0,62.17,album,False,2.84,15,New Entry,2-3 min
+Después De La 1,Cris Mj & FloyyMenor,2025-09-19,2025-11-23,63,11,26.65,8,85.56,single,True,2.96,2,Mature,2-3 min
+Detrás del DJ,Rels B,2025-04-28,2025-04-28,1,39,39.0,0,66.0,album,True,1.99,13,New Entry,<2min
+Diabólica,Cris Mj,2025-03-13,2025-08-19,156,14,30.29,10,76.9,album,True,3.2,17,Mature,3-4 min
+Dicelo,Lianet Rivero & Lia & Gatillo,2024-10-20,2024-10-23,4,24,28.25,1,58.0,single,False,2.56,1,New Entry,2-3 min
+Die With A Smile,Lady Gaga & Bruno Mars,2025-08-31,2025-11-23,48,29,40.85,76,99.77,single,False,4.19,1,Decline,4-5 min
+Dios #1,Cruz Cafuné,2024-05-28,2024-05-28,1,43,43.0,0,56.0,album,True,3.34,23,New Entry,3-4 min
+Doblexxó,J Balvin,2025-08-10,2025-08-23,12,33,43.17,0,63.75,album,True,2.95,15,Decline,2-3 min
+Duro De Verdad pt.2,Los Sufridos,2025-09-20,2025-11-27,69,1,6.99,7,74.68,single,False,3.41,1,Peak,3-4 min
+Déjame Entrar,Rauw Alejandro,2025-07-25,2025-11-23,9,17,37.67,115,72.0,single,True,4.25,1,Decline,4-5 min
+EL CHACAL,Mora,2024-08-30,2024-09-02,4,10,19.75,0,55.25,album,True,3.3,15,New Entry,3-4 min
+EL CONDENAO,Lola Indigo,2024-12-17,2025-01-04,12,35,44.58,5,60.33,album,False,2.41,7,Decline,2-3 min
+EL ESTRIBILLO,Quevedo,2025-11-24,2025-11-27,4,16,24.75,0,64.25,album,False,2.69,18,New Entry,2-3 min
+EL PANTALON - RUMBAS,Omar Montes,2025-06-02,2025-09-12,101,2,23.46,14,67.9,album,False,3.22,11,Peak,3-4 min
+EL TONTO,Lola Indigo,2024-05-18,2025-01-10,205,2,24.97,0,79.95,album,False,3.13,11,Peak,3-4 min
+EMPELOTICA,Lenny Tavárez & Feid,2025-02-25,2025-04-06,36,16,32.39,6,79.58,single,True,3.17,1,Decline,3-4 min
+EMRATA,Myke Towers,2024-11-25,2024-11-25,1,46,46.0,0,0.0,album,True,3.76,23,New Entry,3-4 min
+EROTICAAAAAAA,Gonzy,2025-10-13,2025-10-31,15,38,45.4,12,58.13,album,True,2.83,18,Decline,2-3 min
+ESKELETO,SAIKO,2025-04-28,2025-10-23,113,11,36.16,4,71.96,album,True,4.66,16,Mature,4-5 min
+El Cielo,Sky Rompiendo & Feid & Myke Towers,2024-06-04,2025-03-09,271,2,26.34,6,87.97,single,True,3.19,1,Peak,3-4 min
+El Conjuntito,El Bobe & Omar Montes,2025-03-24,2025-09-23,180,1,17.29,16,75.64,single,False,2.65,1,Peak,2-3 min
+El Destello,Juanjo Bona & Martin Urrutia,2025-10-06,2025-10-06,1,36,36.0,0,57.0,single,False,2.68,1,New Entry,2-3 min
+El Fin del Mundo,La La Love You,2025-06-03,2025-11-23,98,37,46.43,83,68.01,album,False,3.13,18,Mature,3-4 min
+El Jefe,Shakira & Fuerza Regida,2024-09-24,2024-10-03,10,31,39.3,3,80.8,single,True,2.84,1,Decline,2-3 min
+El Malo,Eladio Carrion,2025-01-21,2025-02-17,27,20,34.44,4,77.85,album,False,3.49,17,Decline,3-4 min
+El Mambo,Kiko Rivera,2024-10-04,2025-02-28,144,2,24.26,9,78.18,single,False,2.16,1,Peak,2-3 min
+El Merengue,Marshmello & Manuel Turizo,2024-05-18,2025-11-18,487,5,28.28,0,82.3,single,False,3.16,1,Peak,3-4 min
+El Patio,Pepe y Vizio & Delaossa & KIDDO,2025-02-22,2025-08-27,152,8,28.7,13,73.92,single,False,3.88,1,Peak,3-4 min
+Ella Baila Sola,Eslabon Armado,2024-05-18,2024-08-09,84,9,24.57,16,92.26,album,False,2.76,16,Peak,2-3 min
+En To Lao,Haze & Jhayco,2024-06-15,2024-07-01,11,45,48.27,16,75.09,single,True,3.25,1,Decline,3-4 min
+Enamórate,Nicki Nicole & Bad Gyal,2024-11-16,2024-12-01,15,31,37.67,2,70.47,single,False,2.46,1,Decline,2-3 min
+Es un Secreto,Plan B,2025-06-22,2025-07-04,13,37,41.54,8,82.31,album,False,3.2,15,Decline,3-4 min
+Escriurem,Chiara Oliver & Martin Urrutia,2025-01-25,2025-01-25,1,47,47.0,0,56.0,single,False,3.15,1,New Entry,3-4 min
+Espectacular,Sky Rompiendo & Rauw Alejandro,2025-04-25,2025-04-27,2,49,49.5,0,74.5,single,False,3.1,1,New Entry,3-4 min
+Espresso,Sabrina Carpenter,2025-06-09,2025-07-03,24,39,44.42,19,96.29,single,True,2.92,1,Decline,2-3 min
+Espresso Martini,Rauw Alejandro,2025-11-17,2025-11-21,5,21,35.2,0,71.2,album,True,3.19,18,New Entry,3-4 min
+Europapa,Joost,2025-05-14,2025-05-18,5,33,40.6,1,84.2,single,False,2.67,2,New Entry,2-3 min
+Eva Longoria,Ozuna,2024-08-12,2024-11-24,90,8,25.62,17,78.97,album,False,3.33,7,Peak,3-4 min
+Extasisssssss,Saiko,2024-12-20,2025-01-31,43,18,33.93,2,66.53,single,False,1.94,2,Decline,<2min
+FANTASÍAS,Mora,2024-08-30,2024-09-04,6,9,26.67,0,63.33,album,True,3.2,15,New Entry,3-4 min
+FARDOS,JC Reyes & De La Ghetto,2025-02-18,2025-07-30,160,1,14.86,4,76.97,single,False,3.06,1,Peak,3-4 min
+FERXXO 151,Feid & ICON,2024-08-26,2024-11-06,55,9,36.22,0,73.18,single,False,3.26,1,Peak,3-4 min
+FERXXO 30,Feid,2024-10-07,2024-10-13,2,32,41.0,0,38.0,album,False,2.9,16,New Entry,2-3 min
+FERXXO EDITION,Feid,2024-09-30,2024-10-01,2,43,43.0,0,0.0,album,False,2.7,15,New Entry,2-3 min
+FINA,Bad Bunny,2024-10-14,2024-11-18,36,4,25.72,0,89.0,album,True,3.61,22,Peak,3-4 min
+FINALES DE AGOSTO,SAIKO,2025-04-28,2025-04-29,2,40,42.5,0,58.5,album,False,2.95,16,New Entry,2-3 min
+"FLOWHOT (feat. Arcángel, De La Ghetto, Randy)",The Academy: Segunda Misión & Sech & Dalex,2025-03-31,2025-03-31,1,32,32.0,0,53.0,album,True,3.88,9,New Entry,3-4 min
+FRIKI,Gonzy,2025-05-10,2025-11-26,198,8,18.33,47,71.32,single,True,3.15,1,Peak,3-4 min
+FRÍO,Myke Towers,2025-08-24,2025-08-24,1,36,36.0,0,0.0,album,True,2.67,20,New Entry,2-3 min
+Falsos Recuerdos,Abraham Mateo & Omar Montes,2025-02-01,2025-02-25,24,32,40.92,7,71.83,single,False,3.19,1,Decline,3-4 min
+Fecha,Feid & Yandel,2025-04-14,2025-04-18,5,39,46.8,3,72.4,single,True,3.14,5,New Entry,3-4 min
+Fecha - Intro Extended,Renzo Pianciola,2025-04-19,2025-04-20,2,46,46.5,1,7.5,single,False,3.16,1,New Entry,3-4 min
+Feliz Navidad,Saiko,2024-12-19,2024-12-27,5,5,23.0,6,75.4,single,False,3.64,3,New Entry,3-4 min
+Figo,DELLAFUENTE & Morad,2024-12-02,2024-12-02,1,44,44.0,0,0.0,single,False,3.08,6,New Entry,3-4 min
+Flow Violento - Remix,YoSoyPlex & Ruven,2024-05-30,2024-06-20,8,46,47.88,7,75.38,single,True,2.78,1,Decline,2-3 min
+Flowers,Miley Cyrus,2024-05-18,2024-06-06,18,44,46.56,1,91.0,album,False,3.34,13,Decline,3-4 min
+Fortnight (feat. Post Malone),Taylor Swift,2025-04-21,2025-04-30,9,24,33.67,3,89.78,album,False,3.82,16,Decline,3-4 min
+Fosforito,DELLAFUENTE,2025-06-16,2025-06-16,1,46,46.0,0,29.0,album,False,2.98,10,New Entry,2-3 min
+Fruto,Bizarrap & Milo j,2024-10-07,2024-11-11,36,12,26.53,5,87.31,single,False,2.2,5,Decline,2-3 min
+"Fé, Cojones y Paciencia",Eladio Carrion,2025-01-21,2025-01-21,1,38,38.0,0,66.0,album,True,3.17,17,New Entry,3-4 min
+G-WA,ZHEUS,2025-11-21,2025-11-27,5,39,42.8,2,60.0,single,True,1.94,1,New Entry,<2min
+GANGSTER (PQFNEDG),Ovy On The Drums & Quevedo & Yandel,2024-10-21,2024-11-01,12,15,34.83,0,65.42,single,True,3.59,1,Decline,3-4 min
+GANGSTERS Y PISTOLAS,Feid,2024-09-30,2024-10-01,2,25,25.0,0,0.0,album,False,2.84,15,New Entry,2-3 min
+GATITA GANGSTER,KAROL G,2024-09-13,2024-11-24,63,30,41.89,29,78.63,album,True,2.85,9,Mature,2-3 min
+GATITAS SANDUNGUERAS VOL.1,Alvaro Diaz,2025-05-19,2025-07-03,46,12,23.52,24,77.89,album,False,2.2,20,Growth,2-3 min
+GRACIAS POR NADA,Bad Bunny,2024-10-14,2024-10-20,7,11,28.43,0,71.0,album,True,2.96,22,New Entry,2-3 min
+GRAN VÍA,Quevedo,2025-11-24,2025-11-27,4,1,1.0,0,69.5,album,False,3.56,18,New Entry,3-4 min
+Gata Only,FloyyMenor & Cris Mj,2025-02-24,2025-10-14,217,2,14.58,41,90.12,single,True,3.7,1,Peak,3-4 min
+Gata Only (Mashup),Dj Agus Lima,2025-05-09,2025-05-10,2,5,5.0,0,24.0,album,False,3.59,9,New Entry,3-4 min
+Gitana (feat. Bryartz),Pablo Chill-E,2025-05-03,2025-06-17,45,15,27.47,14,80.78,album,True,3.7,8,Decline,3-4 min
+Goteras,Omar Montes & JC Reyes,2025-06-30,2025-11-23,145,1,12.8,8,76.67,single,False,3.61,1,Peak,3-4 min
+Gran Día,Mau y Ricky & Guaynaa,2025-05-16,2025-06-01,13,17,37.92,15,67.85,single,False,3.23,1,Decline,3-4 min
+Guay,Ozuna & Bad Gyal,2025-04-21,2025-07-20,90,7,21.58,6,76.03,single,False,3.51,1,Peak,3-4 min
+HABLAME CLARO,Yandel & Feid,2025-10-02,2025-10-13,12,12,36.08,0,80.67,single,True,2.58,1,Decline,2-3 min
+HALO,Quevedo,2025-11-24,2025-11-27,4,7,7.5,0,66.5,album,False,3.02,18,New Entry,3-4 min
+HAY LUPITA,Lomiiel,2025-07-12,2025-10-29,103,2,17.78,23,83.12,single,False,1.76,1,Peak,<2min
+HEY BB,SAIKO,2025-04-28,2025-05-02,5,26,36.2,0,63.0,album,False,2.73,16,New Entry,2-3 min
+HIBIKI,Bad Bunny,2024-10-14,2024-12-01,49,2,21.67,0,88.29,album,True,3.47,22,Peak,3-4 min
+Hablame Claro,Yandel & Feid,2025-09-16,2025-10-01,16,5,15.75,9,79.25,single,True,2.58,1,Peak,2-3 min
+Hala Madrid ...y nada más,Real Madrid,2025-06-03,2025-06-03,1,43,43.0,0,60.0,single,False,2.95,1,New Entry,2-3 min
+Hardaway,Duki,2025-11-03,2025-11-03,1,35,35.0,0,62.0,album,True,3.61,15,New Entry,3-4 min
+Hasta Olvidarte,Mau y Ricky,2025-06-03,2025-06-08,6,23,29.17,1,68.83,album,False,3.15,15,New Entry,3-4 min
+Hay Lupita,Megan Koffe,2025-06-28,2025-07-10,13,30,35.08,10,60.69,single,True,1.81,1,Decline,<2min
+Headshot,Anuel AA,2025-09-22,2025-09-22,1,29,29.0,0,61.0,single,True,6.82,1,New Entry,>5 min
+Heavy Is the Crown,Linkin Park,2025-09-27,2025-09-27,1,49,49.0,0,78.0,single,False,2.78,2,New Entry,2-3 min
+Heavyweight,Eladio Carrion,2025-05-04,2025-05-04,1,49,49.0,0,62.0,single,True,2.75,5,New Entry,2-3 min
+Hermosa Casualidad,Sen Senra & Aitana,2025-06-02,2025-06-09,6,39,43.67,4,55.83,single,False,3.43,1,New Entry,3-4 min
+Hey Lil Mama,Eladio Carrion,2025-01-21,2025-04-13,78,8,28.17,4,82.83,album,False,3.61,17,Peak,3-4 min
+Hey Mor,Ozuna,2024-05-18,2024-09-12,97,30,40.01,0,90.79,album,False,3.28,18,Mature,3-4 min
+Historias Por Contar,Operación Triunfo 2023,2025-02-22,2025-02-24,3,28,39.0,0,57.0,single,False,3.2,1,New Entry,3-4 min
+Holanda,Jhayco,2024-08-04,2025-03-12,219,3,21.89,12,88.45,single,True,3.86,1,Peak,3-4 min
+Holly Jolly Christmas,Michael Bublé,2024-12-25,2024-12-27,3,24,38.0,0,83.0,album,False,2.0,16,New Entry,<2min
+Houdini,Dua Lipa,2024-11-11,2024-11-17,7,23,40.29,0,81.43,single,False,3.1,1,New Entry,3-4 min
+Hoy,Valentino Merlo & The La Planta,2025-09-29,2025-10-04,6,13,15.17,3,83.5,single,False,3.31,1,New Entry,3-4 min
+I Can Do It With a Broken Heart,Taylor Swift,2025-04-23,2025-04-23,1,50,50.0,0,82.0,album,True,3.63,16,New Entry,3-4 min
+IA,Clarent,2025-10-20,2025-11-27,39,1,4.15,20,75.28,single,True,2.86,1,Peak,2-3 min
+IGUALES,Quevedo,2025-11-24,2025-11-27,4,3,3.5,0,68.75,album,False,3.06,18,New Entry,3-4 min
+IL Capo,Rauw Alejandro,2025-11-17,2025-11-17,1,38,38.0,0,65.0,album,True,4.16,18,New Entry,4-5 min
+Imagínate,Danny Ocean & Kapo,2025-11-15,2025-11-27,13,15,32.31,8,74.62,single,True,2.84,1,Decline,2-3 min
+Imperio,Duki,2025-11-03,2025-11-23,19,15,28.95,6,72.11,album,True,2.81,15,Decline,2-3 min
+It's Beginning to Look a Lot like Christmas,Michael Bublé,2024-12-25,2024-12-27,3,16,24.0,0,87.0,album,False,3.45,21,New Entry,3-4 min
+It's the Most Wonderful Time of the Year,Andy Williams,2024-12-25,2024-12-27,3,12,20.0,0,79.0,album,False,2.52,12,New Entry,2-3 min
+"Japoni (Feat. Camin, Moncho Chavea, Jthyago & Samueliyo Baby)",Oscar el Ruso & Samuel G & Omar Montes,2025-05-05,2025-06-17,11,45,47.73,29,68.09,single,False,4.13,1,Decline,4-5 min
+"Japoni (feat. Camin, Moncho Chavea, Jthyago & Samueliyo Baby)",Oscar el Ruso & Samuel G & Omar Montes,2025-01-18,2025-04-01,61,26,35.93,38,74.28,single,False,4.13,1,Mature,4-5 min
+Jingle Bell Rock,Bobby Helms,2024-12-25,2024-12-27,3,10,16.67,0,94.0,single,False,2.18,2,New Entry,2-3 min
+K-POP,Travis Scott & Bad Bunny & The Weeknd,2024-07-23,2024-08-05,14,21,33.86,0,79.57,single,True,3.09,1,Decline,3-4 min
+KASSANDRA,Quevedo,2025-11-24,2025-11-27,4,2,2.0,0,69.5,album,False,3.05,18,New Entry,3-4 min
+KTM,Jhayco & Bryant Myers & Luar La L,2025-03-24,2025-03-28,4,16,41.25,0,51.25,single,True,6.11,1,New Entry,>5 min
+Khé?,Rauw Alejandro,2025-11-17,2025-11-27,11,8,14.09,6,77.27,album,False,3.43,18,Peak,3-4 min
+LA 125,Quevedo,2025-11-24,2025-11-27,4,10,18.25,0,65.0,album,False,3.24,18,New Entry,3-4 min
+LA BABY,Tainy,2024-07-02,2024-07-12,11,25,42.27,0,74.64,album,False,3.05,19,Decline,3-4 min
+LA CAPI,Myke Towers,2024-12-14,2025-09-25,233,13,30.15,39,76.15,album,True,3.37,23,Mature,3-4 min
+LA FALDA,Myke Towers,2024-11-25,2025-11-23,359,1,13.23,85,87.05,album,True,2.9,23,Peak,2-3 min
+LA INOCENTE,Mora,2024-05-30,2024-08-11,31,45,48.23,22,88.81,album,True,3.37,15,Decline,3-4 min
+LA MARINA STA MORENA,Figa Flawas,2025-08-07,2025-10-15,69,19,30.28,28,71.22,single,False,2.19,1,Mature,2-3 min
+LA NENA,Lyanno & Rauw Alejandro,2025-04-21,2025-05-25,27,25,38.93,6,78.15,single,True,3.33,1,Decline,3-4 min
+LA RANGER (feat. Myke Towers),The Academy: Segunda Misión & Justin Quiles & Lenny Tavárez,2025-03-31,2025-07-16,107,3,20.86,11,79.62,album,True,3.83,9,Peak,3-4 min
+LA REINA,Lola Indigo,2025-06-16,2025-11-26,162,4,10.75,4,75.53,single,False,2.5,1,Peak,2-3 min
+LA RIJANA,SAIKO,2025-04-28,2025-04-29,2,41,44.0,0,58.5,album,False,2.29,16,New Entry,2-3 min
+LA SEVILLANA,Omar Montes,2025-04-14,2025-05-04,21,3,7.95,6,71.9,single,False,3.67,1,Peak,3-4 min
+LA SEVILLANA - SEVILLANAS,Omar Montes,2025-05-05,2025-07-03,60,8,25.2,0,63.28,single,False,3.67,1,Peak,3-4 min
+LA VUELTA,Feid,2024-12-02,2024-12-02,1,48,48.0,0,0.0,album,False,2.03,10,New Entry,2-3 min
+LA ÚLTIMA,Quevedo,2025-02-03,2025-03-23,48,1,16.33,0,81.44,single,False,2.84,1,Peak,2-3 min
+LAGUNA,Mora,2024-08-30,2024-09-02,4,11,21.5,0,55.75,album,True,4.11,15,New Entry,4-5 min
+LALA,Myke Towers,2024-06-29,2025-09-24,310,1,19.94,6,93.45,album,True,3.3,23,Peak,3-4 min
+LAS BABYS,Aitana,2024-06-09,2024-08-29,82,4,23.07,2,80.33,single,False,2.56,1,Peak,2-3 min
+LATTE (feat. Maria Becerra),The Academy: Segunda Misión & Sech & Dalex,2025-03-31,2025-03-31,1,43,43.0,0,53.0,album,True,4.34,9,New Entry,4-5 min
+LOKITA,Mora,2024-08-30,2024-09-02,4,13,28.75,0,54.5,album,True,2.57,15,New Entry,2-3 min
+LOS DÍAS CONTADOS,Quevedo,2025-11-24,2025-11-27,4,4,5.25,0,67.5,album,False,2.7,18,New Entry,2-3 min
+LOS PITS,Bad Bunny,2024-10-14,2024-10-20,7,20,33.86,0,70.14,album,True,4.18,22,New Entry,4-5 min
+LUCES DE TECNO,Feid,2024-09-30,2025-02-03,124,7,32.15,0,78.67,album,False,2.73,15,Peak,2-3 min
+LUNA,Feid,2024-12-02,2025-11-27,357,2,12.14,40,90.17,album,False,3.28,10,Peak,3-4 min
+LUNCH,Billie Eilish,2025-05-19,2025-05-30,12,20,34.33,6,89.33,album,False,2.99,10,Decline,2-3 min
+La Baby,Brytiago,2024-11-03,2024-12-02,16,3,31.31,27,70.38,single,True,2.69,1,Peak,2-3 min
+La Bachata,Manuel Turizo,2024-05-18,2025-11-19,538,11,26.77,228,85.63,album,False,2.71,15,Mature,2-3 min
+La Bebe - Remix,Yng Lvcas & Peso Pluma,2024-05-18,2024-08-29,104,10,27.39,14,98.37,single,True,3.91,2,Peak,3-4 min
+La Canción Feliz Del Disco,Eladio Carrion,2025-01-21,2025-01-24,4,13,39.0,0,71.75,album,True,2.89,17,New Entry,2-3 min
+La Fiesta,Pedro Capó,2024-05-18,2024-06-27,17,30,44.88,2,74.41,album,False,3.35,10,Decline,3-4 min
+La Gata Bajo La Lluvia,Naiara,2025-01-25,2025-01-25,1,46,46.0,0,55.0,single,False,2.74,1,New Entry,2-3 min
+La Jumpa,Arcángel,2024-05-18,2024-06-23,37,36,42.03,11,87.0,album,True,4.26,18,Decline,4-5 min
+La Rizos [Dime Si Le Comento a la Pura],Las 2K & Chardo Chardemio & Melody Records International,2025-08-25,2025-11-06,69,22,31.17,21,72.32,single,False,3.64,1,Mature,3-4 min
+La Torre Picasso,Arde Bogotá,2025-09-15,2025-09-15,1,46,46.0,0,50.0,single,False,8.08,1,New Entry,>5 min
+La Vida Sin Ti,Rels B & Lia Kali,2025-04-25,2025-06-29,66,8,24.55,7,77.24,single,False,2.74,1,Peak,2-3 min
+La roja baila - Himno oficial de la selección española,Sergio Ramos & Niña Pastori & RedOne,2025-07-15,2025-07-16,2,9,9.0,0,57.0,single,False,3.92,1,New Entry,3-4 min
+La_Original.mp3,Emilia,2024-11-04,2025-06-03,202,10,26.59,124,81.18,album,False,2.34,13,Peak,2-3 min
+Las Bratz (Remix),Aissa & JC Reyes & Saiko,2024-05-18,2024-05-27,10,44,46.9,2,76.0,single,True,7.41,1,Decline,>5 min
+Last Christmas - Single Version,Wham!,2024-12-23,2024-12-27,5,4,19.0,2,89.0,album,False,4.43,16,New Entry,4-5 min
+Let It Snow! Let It Snow! Let It Snow!,Dean Martin,2024-12-25,2024-12-27,3,15,23.0,0,95.0,album,False,1.95,12,New Entry,<2min
+Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet),Frank Sinatra,2024-12-25,2024-12-25,1,33,33.0,0,91.0,album,False,2.59,14,New Entry,2-3 min
+Like I Can (feat. Aitana),Sam Smith & Aitana,2025-08-10,2025-08-10,1,42,42.0,0,38.0,single,False,2.78,1,New Entry,2-3 min
+Lo Que Tiene,Morad & Beny Jr & Rvfv,2025-03-10,2025-11-23,254,5,25.62,3,77.52,single,False,4.32,1,Peak,4-5 min
+Lo que no ves de mí,Juanjo Bona,2025-04-18,2025-04-18,1,38,38.0,0,69.0,single,False,2.4,1,New Entry,2-3 min
+Lollipop,Darell,2024-10-02,2025-01-17,105,1,21.7,19,88.93,album,True,3.33,18,Peak,3-4 min
+Los del Espacio,LIT killah,2024-06-04,2025-02-16,257,2,21.56,5,88.86,single,False,5.63,1,Peak,>5 min
+Los Ángeles,Aitana,2024-05-18,2024-08-05,80,20,34.11,0,82.74,single,False,2.64,1,Mature,2-3 min
+Luchas Mentales,Eladio Carrion,2025-01-21,2025-01-21,1,43,43.0,0,66.0,album,False,2.78,17,New Entry,2-3 min
+Luna llena,Beny Jr,2025-07-31,2025-11-27,119,4,11.08,75,75.82,album,False,2.83,13,Peak,2-3 min
+M.A.I,Milo j,2025-01-17,2025-04-30,100,4,16.32,14,84.83,album,False,3.07,9,Peak,3-4 min
+MALA SUERTE,Lola Indigo & DELLAFUENTE,2024-09-03,2024-09-09,7,32,36.43,3,65.0,single,False,3.59,1,New Entry,3-4 min
+MAREA,Mora,2024-08-30,2024-08-31,2,24,36.5,0,34.5,album,True,2.47,15,New Entry,2-3 min
+MEDIA LUNA,Mora,2024-08-30,2024-09-21,14,5,36.79,0,73.86,album,False,2.25,15,Peak,2-3 min
+MEJOR ASÍ,Myke Towers,2025-08-24,2025-08-24,1,37,37.0,0,0.0,album,True,3.66,20,New Entry,3-4 min
+MEMORIAS,Mora,2024-05-18,2024-05-27,10,39,42.1,5,82.0,album,False,3.81,15,Decline,3-4 min
+MERCEDES CAROTA,Bad Bunny,2024-10-14,2024-10-21,8,17,32.88,0,71.62,album,True,3.38,22,Decline,3-4 min
+MERCHO,LiL CaKe & Migrantes,2024-05-18,2024-08-29,104,21,32.19,11,88.66,single,False,2.69,1,Mature,2-3 min
+MI DROGA,Myke Towers,2024-05-18,2024-05-20,3,46,48.67,0,80.33,album,True,2.72,23,New Entry,2-3 min
+MI EX TENÍA RAZÓN,KAROL G,2024-08-13,2025-07-31,22,16,36.59,0,79.09,album,False,2.57,9,Decline,2-3 min
+MIENTRAS ME CURO DEL CORA,KAROL G,2025-07-24,2025-08-02,10,37,44.9,4,81.7,album,False,2.74,17,Decline,2-3 min
+MODELITO,Mora,2024-09-09,2025-06-17,279,4,21.72,64,81.7,album,True,3.17,14,Peak,3-4 min
+MOJABI GHOST,Tainy,2024-07-02,2024-08-03,33,6,30.94,0,91.09,album,True,3.87,19,Peak,3-4 min
+MONACO,Bad Bunny,2024-10-14,2025-01-12,78,1,23.68,0,94.46,album,True,4.45,22,Peak,4-5 min
+MR. MOONDIAL,Quevedo,2025-11-24,2025-11-27,4,5,5.5,1,67.0,album,False,2.76,18,New Entry,2-3 min
+MR. OCTOBER,Bad Bunny,2024-10-14,2024-10-21,8,7,23.88,0,74.38,album,True,3.15,22,Peak,3-4 min
+Ma Meilleure Ennemie (from the series Arcane League of Legends),Stromae & Pomme & Arcane,2025-11-27,2025-11-27,1,38,38.0,0,77.0,single,False,2.47,1,New Entry,2-3 min
+Madrid City,Ana Mena,2024-09-30,2025-04-15,181,13,27.43,95,76.53,single,False,2.88,1,Mature,2-3 min
+Mal de amores,Natos y Waor & Israel B,2025-02-11,2025-02-17,4,29,37.75,4,61.25,single,False,4.25,1,New Entry,4-5 min
+Malicia,DELLAFUENTE,2025-06-16,2025-06-21,6,29,42.17,0,42.0,album,False,2.96,10,New Entry,2-3 min
+Mama's Boy,Eladio Carrion,2025-01-21,2025-01-21,1,34,34.0,0,66.0,album,False,3.7,17,New Entry,3-4 min
+Mamasota,Manuel Turizo & Yandel,2025-03-15,2025-03-15,1,50,50.0,0,78.0,single,False,3.61,1,New Entry,3-4 min
+Mami Chula,Jhayco & Quevedo,2024-05-18,2024-09-18,118,6,35.81,0,84.06,single,False,3.68,1,Peak,3-4 min
+Mamichula - con Nicki Nicole,Trueno,2025-02-18,2025-04-05,44,7,27.27,14,87.05,album,False,3.65,10,Peak,3-4 min
+Manos Rotas,DELLAFUENTE & Morad,2024-11-18,2025-11-23,329,1,23.6,11,77.68,single,False,2.81,1,Peak,2-3 min
+Maquillaje,Renn & Yexel,2025-03-21,2025-06-02,65,18,31.65,18,77.51,single,True,3.53,1,Mature,3-4 min
+Maquillaje - Remix,refracted arg,2025-04-21,2025-07-14,8,25,32.25,84,54.5,album,False,3.46,7,Decline,3-4 min
+Martini,Dei V,2025-05-02,2025-11-23,150,7,32.81,46,70.25,single,True,2.74,1,Peak,2-3 min
+Me has invitado a bailar,Dani Fernández,2025-09-04,2025-11-27,85,15,27.46,57,65.59,single,False,3.22,1,Mature,3-4 min
+Mencionar,Eladio Carrion,2025-01-21,2025-01-21,1,42,42.0,0,66.0,album,False,2.36,17,New Entry,2-3 min
+Mi Cuarto,Tiago PZK & Rels B,2025-10-27,2025-10-27,1,46,46.0,0,58.0,single,False,2.19,1,New Entry,2-3 min
+Mi Lova,Bad Gyal & Myke Towers,2024-07-09,2024-08-18,41,14,36.71,0,76.59,single,True,3.67,1,Decline,3-4 min
+Mi Luz (ft. Rels B),Rvfv,2024-10-23,2025-10-18,172,32,45.4,353,77.26,album,False,2.8,15,Mature,2-3 min
+Mi Nena Remix,Maikel Delacalle & Quevedo,2024-05-18,2024-06-10,24,26,31.75,1,81.17,single,False,3.67,1,Decline,3-4 min
+Mil Mujeres,Rauw Alejandro,2025-11-17,2025-11-17,1,36,36.0,0,65.0,album,True,2.82,18,New Entry,2-3 min
+"Milo J: Bzrp Music Sessions, Vol. 57",Bizarrap & Milo j,2024-10-07,2025-02-10,61,1,29.39,0,85.23,single,False,3.17,1,Peak,3-4 min
+Mirame,Blessd & Ovy On The Drums,2025-07-15,2025-07-30,16,13,28.88,4,86.5,single,True,2.62,1,Decline,2-3 min
+Mis Tías,Juanjo Bona,2025-07-21,2025-07-23,2,44,45.5,0,60.0,single,False,2.64,1,New Entry,2-3 min
+My Love,De La Ghetto & Quevedo,2024-06-04,2024-07-01,27,36,41.7,11,73.78,single,False,3.57,1,Decline,3-4 min
+NADIE SABE,Bad Bunny,2024-10-14,2024-10-28,15,3,26.67,0,81.4,album,True,6.32,22,Peak,>5 min
+NANA DEL HILO ROJO,SAIKO,2025-04-28,2025-05-02,5,16,27.0,0,65.4,album,False,2.73,16,New Entry,2-3 min
+NO ME QUIERO CASAR,Bad Bunny,2024-10-14,2024-10-19,6,22,32.33,0,67.0,album,True,3.76,22,New Entry,3-4 min
+NO PIENSO LLAMAR,Soge Culebra & Quevedo & GARABATTO,2024-10-07,2025-03-02,147,7,23.8,77,67.88,single,False,3.31,1,Peak,3-4 min
+NOEMÚ,Quevedo,2025-11-24,2025-11-27,4,15,22.5,0,64.25,album,False,3.45,18,New Entry,3-4 min
+Narcotics (with Bryant Myers),Dei V & Bryant Myers,2024-10-04,2025-06-11,188,15,25.55,85,82.7,single,True,2.9,1,Mature,2-3 min
+"Natanael Cano: Bzrp Music Sessions, Vol. 59",Bizarrap & Natanael Cano,2025-04-06,2025-04-13,8,32,39.62,1,78.12,single,True,2.6,1,Decline,2-3 min
+New Woman (feat. ROSALÍA),LISA & ROSALÍA,2025-08-17,2025-08-30,14,15,32.0,0,80.86,single,False,3.0,1,Decline,2-3 min
+Ni Me Conozco,Rauw Alejandro,2025-11-17,2025-11-22,6,26,37.5,0,71.33,album,True,3.83,18,New Entry,3-4 min
+Niña Bonita,Feid & Sean Paul,2024-05-18,2024-08-08,83,13,34.45,1,89.34,single,False,3.13,1,Mature,3-4 min
+No Digas Na,Feid & Yandel,2025-04-17,2025-04-20,4,48,48.75,1,72.5,single,False,3.47,5,New Entry,3-4 min
+No Estuviste En Lo Malo,Morad,2024-05-18,2024-06-23,11,46,48.36,13,72.0,album,False,4.13,19,Decline,4-5 min
+No Estuviste En Lo Malo - REMIX,Morad & Beny Jr & DELLAFUENTE,2024-10-07,2025-01-31,112,12,38.59,0,76.11,single,False,4.47,1,Mature,4-5 min
+No Has Cambiado,Baby Rasta & Noriel & Hades66,2025-10-13,2025-11-27,24,11,32.12,2,69.58,single,True,4.61,1,Decline,4-5 min
+No Te Quieren Conmigo,Gaby Music & Lunay & Luar La L,2024-12-20,2025-04-10,110,4,11.85,21,84.75,single,False,4.2,1,Peak,4-5 min
+No Te Quieren Conmigo - Remix,Gaby Music & Anuel AA & Luar La L,2025-04-07,2025-04-27,21,17,34.86,0,73.29,single,False,5.47,1,Decline,>5 min
+No soy Eterno,Bizarrap & Milo j,2024-10-07,2024-10-13,7,27,35.0,3,75.57,single,False,2.52,5,New Entry,2-3 min
+No_Se_Ve.mp3,Emilia,2024-11-04,2025-02-09,75,32,43.76,1,72.84,album,False,3.39,13,Mature,3-4 min
+No_se_ve.mp3,Emilia & LUDMILLA & ZECCA,2024-06-08,2024-11-03,134,13,22.27,78,86.9,single,True,3.39,1,Growth,3-4 min
+Nochentera,Vicco,2024-05-18,2025-01-09,156,9,20.78,9,80.55,single,False,3.37,1,Peak,3-4 min
+Nueva Era,Duki,2025-11-03,2025-11-27,25,3,10.32,5,78.76,album,True,3.63,15,Peak,3-4 min
+NÚMERO TELEFÓNICO,SAIKO,2025-04-28,2025-05-09,12,14,31.67,0,68.92,album,True,3.17,16,Decline,3-4 min
+OA,Anuel AA & Quevedo & Maluma,2024-10-16,2025-04-27,192,3,21.06,26,85.09,single,True,3.92,1,Peak,3-4 min
+OBVIO,Myke Towers,2024-11-25,2024-11-25,1,25,25.0,0,0.0,album,True,2.71,23,New Entry,2-3 min
+OTRA NOCHE,Myke Towers & Darell,2025-08-20,2025-08-23,4,36,39.25,3,66.5,single,True,3.74,1,New Entry,3-4 min
+OTRA NOCHE (feat. Darell),Myke Towers,2025-08-24,2025-11-16,85,11,22.98,14,68.92,album,True,3.74,20,Growth,3-4 min
+OTRA OPORTUNIDAD,Myke Towers,2025-08-24,2025-08-24,1,25,25.0,0,0.0,album,True,2.82,20,New Entry,2-3 min
+OTRO ROUND,Myke Towers,2024-11-25,2024-11-25,1,50,50.0,0,0.0,album,True,2.24,23,New Entry,2-3 min
+Ohnana,Kapo,2025-07-04,2025-11-27,145,2,8.89,28,85.48,single,False,2.61,1,Peak,2-3 min
+Omega (feat. Ralphie Choo),ROSALÍA,2025-09-27,2025-10-10,14,3,25.29,0,70.5,single,False,2.82,1,Peak,2-3 min
+Orgullosa De Papá,Cano,2025-11-01,2025-11-23,6,45,47.17,15,55.0,album,False,2.9,10,New Entry,2-3 min
+Oye BB,Omar Montes & Nicky Jam,2024-11-11,2024-11-11,1,43,43.0,0,25.0,single,False,2.46,1,New Entry,2-3 min
+PA' LA VUELTA,Eladio Carrion & Morad,2024-08-06,2024-08-06,1,49,49.0,0,62.0,single,True,3.73,1,New Entry,3-4 min
+PASAJERO,Mora,2024-08-30,2024-10-13,45,4,27.78,0,80.02,album,False,2.49,15,Peak,2-3 min
+PASIEMPRE,Tainy,2024-07-02,2024-07-20,19,21,34.0,3,83.37,album,True,5.93,19,Decline,>5 min
+PELIGROSA,FloyyMenor,2025-07-31,2025-11-27,119,3,13.59,39,79.0,single,True,2.25,1,Peak,2-3 min
+PERREO LENTO,Chris Jedi & Gaby Music & Dei V,2025-03-01,2025-03-29,27,28,36.41,6,74.63,single,True,2.61,5,Decline,2-3 min
+PERRO NEGRO,Bad Bunny,2024-10-14,2025-05-31,195,2,11.39,3,94.15,album,True,2.71,22,Peak,2-3 min
+PERROS&GATA$,Nicki Nicole & SAIKO,2025-07-04,2025-07-07,4,45,46.5,0,66.5,single,False,2.99,1,New Entry,2-3 min
+PIDE,Mora,2024-08-30,2024-09-02,4,15,34.25,0,54.5,album,True,3.47,15,New Entry,3-4 min
+PIRIBIRI,JC Reyes & Pedro Calderon,2024-08-09,2024-09-29,41,37,45.22,39,74.2,single,False,2.95,1,Decline,2-3 min
+PLAYA DEL INGLÉS,Quevedo,2024-05-18,2024-12-12,159,15,24.31,0,82.73,album,False,3.96,16,Growth,3-4 min
+POLARIS - Remix,Saiko & Feid & Quevedo,2024-06-11,2025-05-09,324,1,17.98,0,83.93,single,True,4.8,1,Peak,4-5 min
+POR ATRÁS,Quevedo,2025-11-24,2025-11-27,4,11,16.75,0,65.5,album,False,2.86,18,New Entry,2-3 min
+PRIVILEGIOS,Feid,2024-09-30,2024-10-01,2,46,46.0,0,0.0,album,False,3.1,15,New Entry,3-4 min
+PROVENZA,KAROL G,2025-07-25,2025-07-30,6,45,47.33,1,82.17,album,False,3.46,17,New Entry,3-4 min
+PUNTO G,Quevedo,2024-05-18,2025-01-13,162,23,40.61,12,85.33,album,False,2.52,16,Mature,2-3 min
+Pacto (feat. Bryant Myers & Dei V) - Remix,Jay Wheeler & Anuel AA & Hades66,2024-07-29,2024-10-06,66,20,37.06,21,80.44,single,True,5.77,1,Mature,>5 min
+Pacto (feat. Luar La L),Jay Wheeler,2024-06-01,2024-07-01,31,38,43.77,21,70.61,album,True,4.73,9,Decline,4-5 min
+Pasaporte,Rauw Alejandro & Mr. Naisgai,2025-09-29,2025-11-17,2,43,46.0,49,63.5,single,False,4.45,1,New Entry,4-5 min
+Passoa,JHAYCO & Kapo,2025-08-17,2025-09-27,40,19,34.78,9,71.25,single,False,5.15,1,Decline,>5 min
+Paz,Morad,2024-05-18,2024-05-20,3,44,46.0,0,64.67,album,False,3.1,19,New Entry,3-4 min
+Pedro,Jaxomy & Agatino Romero & Raffaella Carrà,2025-04-14,2025-05-21,35,14,33.63,7,87.66,single,False,2.41,1,Decline,2-3 min
+Penas de Antaño,Bizarrap & Milo j,2024-10-09,2024-10-12,4,44,46.5,1,76.5,single,False,3.35,5,New Entry,3-4 min
+Perdió Este Culo,Bad Gyal,2025-01-28,2025-02-24,28,18,37.14,3,74.07,album,True,2.65,15,Decline,2-3 min
+"Peso Pluma: Bzrp Music Sessions, Vol. 55",Bizarrap & Peso Pluma,2024-06-03,2024-07-01,29,2,18.21,0,94.45,single,True,3.14,1,Peak,3-4 min
+Please Please Please,Sabrina Carpenter,2025-06-12,2025-06-20,9,33,39.33,6,87.0,single,True,3.11,2,Decline,3-4 min
+Polaris,Saiko,2024-05-18,2024-06-11,25,22,36.16,23,77.68,single,True,3.2,3,Decline,3-4 min
+Potra Salvaje,Isabel Aaiún,2025-07-07,2025-08-28,50,14,35.26,11,64.7,album,False,3.33,10,Decline,3-4 min
+Potra Salvaje - Hard Remix,Isabel Aaiún & Fernando Moreno,2025-05-29,2025-09-24,114,3,13.99,20,74.51,single,False,5.7,1,Peak,>5 min
+Probemas Mentales,JZAEB & Eix,2025-03-07,2025-03-07,1,48,48.0,0,55.0,single,True,3.82,1,New Entry,3-4 min
+Problemas Mentales,JZAEB & Eix,2025-03-20,2025-03-22,2,22,22.5,2,67.5,single,True,3.82,1,New Entry,3-4 min
+"Ptazeta: Bzrp Music Sessions, Vol. 45",Paul Thin & RUSLANA,2025-01-18,2025-01-19,2,42,46.0,0,57.0,single,False,2.62,1,New Entry,2-3 min
+PÓLVORA,Mora,2024-08-30,2024-09-09,11,8,32.45,0,71.0,album,True,3.09,15,Peak,3-4 min
+Q U E V A S H A C E R H O Y ?,Omar Courtz,2025-09-25,2025-11-27,64,1,4.52,7,85.88,album,False,3.73,17,Peak,3-4 min
+QLONA,KAROL G,2024-08-19,2025-10-19,342,8,26.47,26,90.0,album,True,2.88,9,Peak,2-3 min
+QUE ASCO DE TODO,Quevedo,2025-11-24,2025-11-27,4,19,28.75,0,63.5,album,False,3.17,18,New Entry,3-4 min
+QUEVEDO #49 AFTER HOUR THE MIXTAPE,DJ Saot ST,2024-06-04,2024-06-04,1,48,48.0,0,20.0,album,False,2.0,49,New Entry,<2min
+QUIZÁS SI QUIZÁS NO,Alvaro Diaz & Quevedo,2024-11-25,2024-12-23,29,13,35.17,0,73.62,single,False,3.39,1,Decline,3-4 min
+Que Me Lleve el Aire,Luis Cortés,2025-10-10,2025-10-17,8,42,46.38,3,67.0,single,False,2.84,1,Decline,2-3 min
+Que te vaya bien,Rvfv,2024-05-18,2024-06-07,21,26,37.9,0,77.0,single,False,3.42,1,Decline,3-4 min
+"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap & Quevedo,2024-05-18,2025-01-03,133,27,36.09,11,92.07,single,False,3.32,1,Mature,3-4 min
+Quickie,Dei V,2025-11-19,2025-11-25,7,31,42.43,4,66.57,single,True,2.06,1,New Entry,2-3 min
+Quien Es Dei V?,Dei V,2024-09-24,2025-04-09,196,10,28.97,10,80.01,single,True,2.7,1,Peak,2-3 min
+Quién es Dei V?,Dei V,2025-06-16,2025-06-16,1,50,50.0,0,13.0,album,True,2.7,16,New Entry,2-3 min
+Qué Pasaría...,Rauw Alejandro,2025-11-17,2025-11-27,11,1,4.45,0,80.82,album,True,3.18,18,Peak,3-4 min
+Qué Pecao,Manuel Turizo & Kapo,2025-10-06,2025-11-27,53,13,21.42,7,72.25,single,False,3.83,1,Growth,3-4 min
+RAPAPA,JC Reyes,2025-10-20,2025-11-26,38,8,22.16,12,66.5,single,False,2.01,6,Peak,2-3 min
+REAL GANGSTA LOVE,Trueno,2025-06-06,2025-11-16,154,1,18.27,6,87.66,album,True,2.42,13,Peak,2-3 min
+REINA,Mora,2024-08-30,2025-04-17,229,1,15.45,0,84.59,album,True,3.53,15,Peak,3-4 min
+REMIX EXCLUSIVO,Feid,2024-05-18,2024-06-04,17,43,47.18,2,87.24,single,True,3.45,1,Decline,3-4 min
+RITMO DE MEDALLO,Feid,2024-09-30,2024-10-01,2,37,37.0,0,0.0,album,False,1.98,15,New Entry,<2min
+RITUAL,Myke Towers,2024-11-25,2024-11-25,1,48,48.0,0,0.0,album,True,2.57,23,New Entry,2-3 min
+RKO,Eladio Carrion,2025-01-21,2025-01-24,4,20,38.25,0,69.75,album,True,1.78,17,New Entry,<2min
+RUEDA,Rvfv,2025-06-02,2025-08-14,70,21,40.9,17,63.3,album,False,3.55,20,Mature,3-4 min
+Rapeadita LOVE,Rels B,2025-04-28,2025-04-28,1,44,44.0,0,65.0,album,True,2.34,13,New Entry,2-3 min
+Rapido (with Cris Mj),Dei V,2025-06-16,2025-11-27,162,5,14.46,67,78.14,album,True,2.43,16,Peak,2-3 min
+Rara Vez,Taiu & Milo j,2024-05-18,2024-12-13,147,15,33.14,2,89.78,single,False,2.14,1,Mature,2-3 min
+"Rauw Alejandro: Bzrp Music Sessions, Vol. 56",Bizarrap & Rauw Alejandro,2024-06-24,2024-10-13,111,1,23.08,0,87.98,single,True,3.19,1,Peak,3-4 min
+Razones,Ozuna & Anuel AA & Mambo Kingz,2025-06-30,2025-07-05,6,16,32.67,0,67.5,single,False,3.71,1,New Entry,3-4 min
+Remember Me,Duki,2024-07-19,2024-07-22,4,43,45.25,0,61.0,album,False,2.84,15,New Entry,2-3 min
+Revolú,Rauw Alejandro,2025-11-17,2025-11-23,7,10,24.43,0,73.14,album,True,3.59,18,New Entry,3-4 min
+"Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",Sevdaliza & Villano Antillano & Tokischa,2025-04-26,2025-05-12,5,26,40.0,1,83.4,single,True,2.65,2,New Entry,2-3 min
+RoCKSTAR 2.0,Duki & Jhayco,2024-06-24,2024-07-02,9,14,21.78,0,74.0,single,True,2.9,1,Growth,2-3 min
+Rockin' Around The Christmas Tree,Brenda Lee,2024-12-24,2024-12-27,4,7,19.0,1,98.0,album,False,2.1,12,New Entry,2-3 min
+Romero Santo,DELLAFUENTE,2025-06-16,2025-06-21,5,31,40.6,0,45.4,album,False,3.19,10,New Entry,3-4 min
+Rosas,La Oreja de Van Gogh,2025-10-17,2025-10-26,10,30,42.5,2,70.2,album,False,3.95,12,Decline,3-4 min
+RÁPIDO,Mora,2024-05-18,2024-05-24,7,41,44.0,0,81.71,single,True,3.05,1,New Entry,3-4 min
+S91,KAROL G,2024-07-16,2024-09-04,49,21,35.1,28,80.78,single,False,2.88,1,Decline,2-3 min
+SE ME OLVIDA,Maisak & Feid,2025-08-24,2025-11-16,79,11,31.03,8,83.38,single,True,3.76,1,Mature,3-4 min
+SE TE NOTA (feat. Peso Pluma),Myke Towers,2025-08-24,2025-08-25,2,27,37.0,0,31.5,album,True,3.17,20,New Entry,3-4 min
+SEDA,Bad Bunny,2024-10-14,2025-02-13,119,6,25.2,0,85.33,album,True,3.17,22,Peak,3-4 min
+SEXO DESENFRENADO,Myke Towers,2025-08-24,2025-08-24,1,45,45.0,0,0.0,album,True,4.06,20,New Entry,4-5 min
+SEYA,GIMS,2024-10-21,2025-02-27,109,21,31.04,60,67.91,album,False,3.14,21,Mature,3-4 min
+SHIBATTO,Quevedo,2025-11-24,2025-11-27,4,3,3.75,2,67.75,album,False,2.3,18,New Entry,2-3 min
+SI NO ES CONTIGO,Cris Mj,2025-06-18,2025-09-20,92,31,38.6,52,88.24,single,True,2.6,1,Mature,2-3 min
+SI SABE FERXXO,Blessd,2025-01-28,2025-02-28,31,27,39.81,4,82.26,album,True,2.54,14,Decline,2-3 min
+"SI SI SI SI (feat. Eladio Carrion, Bryant Myers, Dei V)",The Academy: Segunda Misión,2025-03-31,2025-06-08,59,16,38.17,0,73.49,album,True,4.03,9,Decline,4-5 min
+SI TE PEGAS,Rauw Alejandro,2024-07-09,2024-07-12,4,30,36.75,0,56.25,album,True,3.06,14,New Entry,3-4 min
+SORRY 4 THAT MUCH,Feid,2025-06-09,2025-07-17,38,9,24.26,8,81.45,single,True,3.46,1,Peak,3-4 min
+SPANISH TETEO,Rvfv & Rels B & Omar Montes,2024-09-10,2024-09-11,2,50,50.0,0,61.0,single,True,3.02,1,New Entry,3-4 min
+STAR,JC Reyes,2025-10-20,2025-11-27,37,7,15.51,26,67.62,single,False,2.6,6,Peak,2-3 min
+SUPERNOVA,SAIKO,2025-04-28,2025-05-03,6,33,40.83,0,59.33,album,False,3.18,16,New Entry,3-4 min
+Sangre y Fe,Cruz Cafuné,2024-05-28,2024-06-16,20,6,30.65,0,71.45,album,True,3.86,23,Peak,3-4 min
+Santa,Rvssian & Rauw Alejandro & Ayra Starr,2025-04-16,2025-11-27,224,1,12.11,5,82.61,single,False,3.22,1,Peak,3-4 min
+Santa Tell Me,Ariana Grande,2024-12-25,2024-12-27,3,17,25.0,0,96.0,single,False,3.4,1,New Entry,3-4 min
+Se Fue,Rauw Alejandro,2025-11-17,2025-11-27,11,5,13.36,0,76.64,album,False,4.0,18,Peak,3-4 min
+Se Grita,Morad,2024-07-21,2024-08-05,16,46,47.12,4,84.5,album,True,4.33,19,Decline,4-5 min
+Se Pone Las Nike,Cano,2025-11-06,2025-11-27,22,6,15.05,8,66.55,album,False,2.66,10,Peak,2-3 min
+SexeSexy,Mushkaa,2025-03-31,2025-04-13,6,40,44.33,0,52.5,album,False,3.88,9,New Entry,3-4 min
+"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,2024-05-18,2024-07-18,61,30,41.89,5,93.67,single,False,3.58,1,Mature,3-4 min
+Shars 2023,Al Safir,2024-11-30,2024-12-01,2,21,21.0,0,41.5,single,False,2.72,1,New Entry,2-3 min
+Si Antes Te Hubiera Conocido,KAROL G,2025-06-22,2025-11-27,157,1,2.44,10,92.75,single,False,3.26,1,Peak,3-4 min
+Si La Calle Llama - Remix,Eladio Carrion,2024-05-18,2024-08-29,104,20,32.58,1,85.63,album,True,4.0,18,Mature,3-4 min
+Si No Estás,iñigo quintero,2024-09-20,2025-04-03,187,1,14.81,9,93.47,single,False,3.07,1,Peak,3-4 min
+Sigo Enamorau',Eladio Carrion,2025-01-21,2025-01-21,1,17,17.0,0,68.0,album,True,3.25,17,New Entry,3-4 min
+Sin Gato (MIAU!),Rels B,2024-05-28,2024-06-03,3,45,47.67,0,68.0,single,False,2.48,1,New Entry,2-3 min
+Sleigh Ride,The Ronettes,2024-12-25,2024-12-27,3,28,42.67,0,84.0,album,False,3.02,15,New Entry,3-4 min
+Snowman,Sia,2024-12-25,2024-12-27,3,27,37.0,0,94.0,album,False,2.76,13,New Entry,2-3 min
+Sofi - Remix,Samueliyo Baby & KEVIN ROLDAN,2024-12-12,2024-12-14,3,22,32.33,0,68.0,single,False,2.86,1,New Entry,2-3 min
+Solita y SueltAAA,Rels B,2024-07-23,2024-07-25,3,49,49.67,2,67.33,album,False,2.6,9,New Entry,2-3 min
+Soltera,Shakira,2025-09-28,2025-11-27,61,5,13.34,16,83.85,single,False,3.58,1,Peak,3-4 min
+Sonrisa,Eladio Carrion,2025-01-21,2025-01-21,1,16,16.0,0,68.0,album,True,2.54,17,New Entry,2-3 min
+Sport+ RMX,Clarent & Myke Towers,2025-08-15,2025-08-23,9,47,48.67,2,70.22,single,True,3.66,1,Decline,3-4 min
+Suano,NTG & Amenazzy,2025-05-16,2025-08-09,80,6,23.55,17,73.74,single,True,2.29,1,Peak,2-3 min
+Supernova,Saiko,2024-05-18,2024-12-16,201,1,23.6,0,81.0,single,False,3.18,1,Peak,3-4 min
+T'as peur,Aya Nakamura,2024-05-18,2024-05-21,4,45,46.0,0,70.0,album,False,3.59,15,New Entry,3-4 min
+TAMBIÉN,Myke Towers,2025-08-24,2025-11-27,88,5,11.88,43,76.65,album,True,2.33,20,Peak,2-3 min
+TE FALLÉ,Quevedo,2025-11-24,2025-11-27,4,17,25.25,0,64.25,album,False,3.66,18,New Entry,3-4 min
+TELEFONO NUEVO,Bad Bunny,2024-10-14,2024-10-28,15,9,30.47,0,80.8,album,True,5.91,22,Peak,>5 min
+THUNDER Y LIGHTNING,Bad Bunny,2024-10-14,2024-11-17,35,14,31.66,0,83.37,album,True,3.62,22,Decline,3-4 min
+TQG,KAROL G,2024-05-18,2025-08-08,120,9,31.98,0,93.07,album,True,3.3,17,Peak,3-4 min
+TQMQA,Eladio Carrion,2024-12-17,2025-01-26,32,15,38.94,35,74.78,single,False,2.83,1,Decline,2-3 min
+TU$$I (with Dei V),YOVNGCHIMI,2025-03-01,2025-08-16,160,11,31.86,18,76.69,album,True,2.72,16,Mature,2-3 min
+TUYA,ROSALÍA,2024-06-11,2024-07-18,38,6,29.18,0,84.92,single,True,2.58,1,Peak,2-3 min
+Tacos Gucci,Anuel AA,2025-02-18,2025-03-05,13,19,33.31,4,79.54,single,True,3.45,1,Decline,3-4 min
+Tanta Droga,Eladio Carrion,2025-01-21,2025-01-21,1,27,27.0,0,68.0,album,True,4.15,17,New Entry,4-5 min
+Taste,Sabrina Carpenter,2025-08-29,2025-09-03,6,47,48.67,2,89.67,album,False,2.62,12,New Entry,2-3 min
+Tattoo,Loreen,2024-05-18,2024-06-02,16,21,37.19,0,91.44,single,False,3.06,1,Decline,3-4 min
+Te Menti,Ozuna & Saiko & Ovy On The Drums,2024-09-19,2024-09-29,11,38,45.45,1,73.18,single,False,3.12,1,Decline,3-4 min
+Tengo Un Plan,Key-Key,2025-04-04,2025-06-11,69,11,26.39,10,77.87,single,False,3.15,1,Mature,3-4 min
+Thalía,Cyril Kamer,2025-03-15,2025-06-04,81,9,26.77,25,73.68,single,False,3.06,1,Peak,3-4 min
+Thalía - Remix,Cyril Kamer & Rvfv & Polimá Westcoast,2025-07-18,2025-08-23,34,25,37.06,17,69.18,single,False,3.85,1,Decline,3-4 min
+The Code,Nemo,2025-05-14,2025-05-18,5,24,36.8,0,79.8,single,False,3.0,1,New Entry,2-3 min
+The Emptiness Machine,Linkin Park,2025-09-11,2025-10-02,17,30,38.12,2,91.12,single,True,3.17,1,Decline,3-4 min
+Timeless (with Playboi Carti),The Weeknd & Playboi Carti,2025-09-29,2025-09-29,1,50,50.0,0,79.0,single,True,4.27,1,New Entry,4-5 min
+Todo Contigo,Álvaro De Luna,2024-05-18,2024-09-23,129,12,30.12,0,78.99,single,False,2.76,1,Mature,2-3 min
+Todo Lit,Eladio Carrion,2025-01-21,2025-01-21,1,23,23.0,0,67.0,album,True,4.03,17,New Entry,4-5 min
+Toy en el Mic,Bizarrap & Milo j,2024-10-07,2024-10-13,7,24,28.57,3,76.0,single,True,2.28,5,New Entry,2-3 min
+Tranquila Baby,Eladio Carrion,2025-01-21,2025-01-21,1,32,32.0,0,67.0,album,True,2.13,17,New Entry,2-3 min
+Trato De Estar Bien,Duki,2025-11-03,2025-11-09,5,37,44.0,0,65.6,album,False,3.56,15,New Entry,3-4 min
+Trending Remix (with Myke Towers),Dei V,2025-03-03,2025-07-20,137,10,24.47,7,73.47,single,True,3.75,1,Peak,3-4 min
+Tu Ritmo,Eladio Carrion,2025-01-21,2025-01-21,1,21,21.0,0,68.0,album,True,2.64,17,New Entry,2-3 min
+Tu Silueta,Diegote,2025-07-14,2025-10-28,106,5,17.41,17,76.1,single,False,2.84,1,Peak,2-3 min
+Tú Con Él,Rauw Alejandro,2025-11-17,2025-11-23,7,12,24.86,0,75.14,album,False,4.82,18,New Entry,4-5 min
+UN DESEO,Mora,2024-08-30,2024-08-31,2,20,31.0,0,34.5,album,True,3.65,15,New Entry,3-4 min
+UN PREVIEW,Bad Bunny,2024-09-27,2024-11-02,37,1,22.41,0,81.14,single,False,2.76,1,Peak,2-3 min
+UNA BACHATA,Lola Indigo,2025-02-04,2025-04-27,77,8,30.01,0,74.06,album,False,2.63,7,Peak,2-3 min
+UWAIE,Kapo,2025-08-20,2025-11-27,100,2,9.24,9,86.4,single,False,2.87,1,Peak,2-3 min
+Un Desperdicio,Rels B,2025-04-28,2025-05-15,16,29,36.69,10,79.25,album,False,3.73,13,Decline,3-4 min
+Un Rodeoooo,Rels B,2024-07-23,2024-09-23,57,36,44.42,18,75.09,album,False,2.27,9,Decline,2-3 min
+Una Foto Remix (feat. Emilia),Mesita & Nicki Nicole & Tiago PZK,2025-01-11,2025-06-15,154,6,24.24,21,87.25,single,False,4.06,1,Peak,4-5 min
+Una Velita,Bad Bunny,2025-09-22,2025-09-27,6,7,36.0,0,75.83,single,True,4.0,1,New Entry,3-4 min
+Underneath the Tree,Kelly Clarkson,2024-12-25,2024-12-27,3,22,34.0,0,86.0,album,False,3.83,14,New Entry,3-4 min
+VAGABUNDO,Sebastian Yatra & Manuel Turizo & Beéle,2024-05-18,2025-10-16,388,3,28.97,17,84.8,single,False,3.59,1,Peak,3-4 min
+VENTE CONMIGO,Feid,2024-08-06,2024-08-12,7,22,35.29,0,77.14,single,False,3.1,1,New Entry,3-4 min
+VISTA AL MAR,Quevedo,2024-05-21,2024-07-29,33,43,47.76,9,82.18,album,False,3.01,16,Decline,3-4 min
+VOLVER,Tainy,2024-07-02,2024-07-02,1,49,49.0,0,69.0,album,True,3.1,19,New Entry,3-4 min
+VOU 787,Bad Bunny,2024-10-14,2024-10-18,5,13,27.2,0,65.0,album,True,2.06,22,New Entry,2-3 min
+VUELVE CANDY B,Bad Bunny,2024-10-14,2024-10-18,5,19,32.2,0,63.4,album,True,4.44,22,New Entry,4-5 min
+"VVS Switch (feat. Hades66, Luar La L & CDobleta) - Remix",Pressure 9X19 & Anuel AA & YOVNGCHIMI,2025-03-17,2025-03-30,13,13,31.38,0,75.54,single,True,9.25,1,Decline,>5 min
+Vacile,Yan Block,2025-08-15,2025-11-27,105,16,22.28,63,77.46,single,True,2.34,1,Growth,2-3 min
+Vida De Rock,Duki,2025-11-03,2025-11-10,8,34,40.38,4,69.25,album,True,3.03,15,Decline,3-4 min
+WANDA,Quevedo,2024-05-18,2024-12-07,145,18,28.45,0,85.54,album,False,2.68,16,Mature,2-3 min
+WHERE SHE GOES,Bad Bunny,2024-05-21,2024-10-28,154,1,15.88,0,94.51,single,True,3.86,1,Peak,3-4 min
+WYA REMIX RED,J Abdiel & De La Rose & Yan Block,2025-06-19,2025-11-16,140,22,34.96,23,81.93,single,True,5.36,1,Mature,>5 min
+Whisky,Samuel G & Oscar el Ruso & Aissa,2025-07-17,2025-07-31,15,30,35.6,4,68.53,single,False,5.09,1,Decline,>5 min
+X'CLUSIVO,Gonzy,2025-01-31,2025-03-09,38,3,18.05,30,77.74,single,True,2.93,1,Peak,2-3 min
+X'CLUSIVO - REMIX,Gonzy & SAIKO & Arcángel,2025-03-03,2025-11-23,262,1,16.07,0,75.39,single,True,3.47,1,Peak,3-4 min
+Xxx_Rosario_xxX,Saiko,2024-12-24,2025-01-05,13,23,34.54,0,66.23,album,True,3.15,7,Decline,3-4 min
+YO LO SOÑÉ,SAIKO & Omar Montes,2025-04-19,2025-08-16,118,1,22.61,11,69.25,single,False,2.92,1,Peak,2-3 min
+YO TENGO UN NOVIO,Lola Indigo,2024-12-17,2024-12-24,8,18,32.88,4,60.12,album,False,2.41,7,Decline,2-3 min
+YOTULOKO,Omar Montes & Rels B,2025-07-14,2025-11-05,114,22,32.52,13,73.82,single,False,3.56,1,Mature,3-4 min
+Ya es Navidad Popurrí: Ya es Navidad- Zúmbale a la pandereta - Ya vienen los Reyes Magos - Arre Borriquito - Ya es Navidad,Raya Real,2024-12-25,2024-12-25,1,34,34.0,0,50.0,album,False,4.37,9,New Entry,4-5 min
+Yandel 150,Yandel,2024-05-18,2024-09-23,125,10,26.38,0,88.52,album,True,3.6,17,Peak,3-4 min
+Yankee 150,Yandel & Feid & Daddy Yankee,2024-06-18,2024-06-18,1,46,46.0,0,68.0,single,True,4.04,1,New Entry,4-5 min
+Yo sé,Yan Block & TORRRES,2025-11-01,2025-11-27,26,8,22.38,21,72.65,single,True,2.16,1,Peak,2-3 min
+"Young Miko: Bzrp Music Sessions, Vol. 58",Bizarrap & Young Miko,2025-01-13,2025-04-26,101,1,17.52,0,90.58,single,False,3.12,1,Peak,3-4 min
+ZORRA,Nebulossa,2025-02-05,2025-05-18,21,8,26.76,0,72.76,single,True,3.06,1,Peak,3-4 min
+a new star (2 0 2 4),Rels B,2025-05-09,2025-05-30,16,32,40.56,7,75.38,album,True,2.37,13,Decline,2-3 min
+caída del cielo <3,Rels B,2025-04-28,2025-05-01,2,38,43.0,0,68.5,album,True,2.22,13,New Entry,2-3 min
+do it 4 th€ gram,Cruz Cafuné,2025-07-21,2025-07-21,1,34,34.0,0,54.0,single,True,2.51,6,New Entry,2-3 min
+don't liE,Duki,2024-06-25,2024-06-29,5,44,48.0,3,71.8,album,False,3.56,14,New Entry,3-4 min
+haz lo que quieras conmigo,Walls,2025-09-22,2025-10-19,20,33,44.15,0,65.8,single,False,3.48,1,Decline,3-4 min
+i like the way you kiss me,Artemas,2025-04-04,2025-05-02,21,19,32.9,14,97.86,single,False,2.38,1,Decline,2-3 min
+la noia,Angelina Mango,2025-05-14,2025-05-14,1,47,47.0,0,80.0,single,False,3.15,1,New Entry,3-4 min
+la raíz d€l mal,Cruz Cafuné,2025-07-21,2025-07-26,4,42,47.5,0,59.0,single,True,2.23,6,New Entry,2-3 min
+lady madrizZz,céro,2024-11-03,2025-03-02,118,8,27.47,13,73.84,single,False,2.18,1,Peak,2-3 min
+miamor,Aitana & Rels B,2024-08-26,2024-09-26,32,4,37.25,0,72.72,single,False,2.66,1,Peak,2-3 min
+m€ntiras,Cruz Cafuné,2025-07-21,2025-07-21,1,43,43.0,0,54.0,single,True,2.53,6,New Entry,2-3 min
+offline,Young Miko,2025-04-07,2025-06-15,69,16,34.74,2,84.22,album,False,3.37,16,Mature,3-4 min
+rang€ rov€r,Cruz Cafuné,2025-07-21,2025-07-21,1,47,47.0,0,53.0,single,True,1.95,6,New Entry,<2min
+rompeolas,Martin Urrutia,2025-04-12,2025-04-18,2,39,42.0,6,68.5,single,False,2.71,1,New Entry,2-3 min
+un x100to,Grupo Frontera & Bad Bunny,2024-05-18,2024-06-14,27,31,38.04,3,99.96,single,False,3.24,1,Decline,3-4 min
+vampire,Olivia Rodrigo,2024-07-02,2024-07-02,1,48,48.0,0,85.0,single,True,3.66,1,New Entry,3-4 min
+we can't be friends (wait for your love),Ariana Grande,2025-03-11,2025-03-20,8,31,41.5,2,88.38,album,False,3.81,13,Decline,3-4 min
+"yes, and?",Ariana Grande,2025-01-14,2025-01-20,7,30,35.43,4,91.0,single,True,3.58,1,New Entry,3-4 min
